@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.31)  31 JAN 2016 10:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.31)  31 JAN 2016 15:33
 entering extended mode
 **"C:/Users/Ryan Soklaski/Desktop/TA_TD_Paper/Supercooled_Final.tex"
 ("C:/Users/Ryan Soklaski/Desktop/TA_TD_Paper/Supercooled_Final.tex"
@@ -297,20 +297,17 @@ Package epstopdf Info: Source file: <viscosity.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 332301 bytes
 (epstopdf)             Output file: <viscosity-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:55
+(epstopdf)                    size: 42527 bytes
 (epstopdf)             Command: <epstopdf --outfile=viscosity-eps-converted-to.
 pdf viscosity.eps>
-(epstopdf)             \includegraphics on input line 202.
-runsystem(epstopdf --outfile=viscosity-eps-converted-to.pdf viscosity.eps)...ex
-ecuted (allowed).
-
-Package epstopdf Info: Result file: <viscosity-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:55
-(epstopdf)                    size: 42527 bytes.
+(epstopdf)             \includegraphics on input line 205.
+Package epstopdf Info: Output file is already uptodate.
  <viscosity-eps-converted-to.pdf, id=22, 578.16pt x 578.16pt>
 File: viscosity-eps-converted-to.pdf Graphic file (type pdf)
 
 <use viscosity-eps-converted-to.pdf>
-Package pdftex.def Info: viscosity-eps-converted-to.pdf used on input line 202.
+Package pdftex.def Info: viscosity-eps-converted-to.pdf used on input line 205.
 
 (pdftex.def)             Requested size: 231.2599pt x 231.2599pt.
  [4]
@@ -318,47 +315,41 @@ Package epstopdf Info: Source file: <stokes-diff-test.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 77971 bytes
 (epstopdf)             Output file: <stokes-diff-test-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:55
+(epstopdf)                    size: 42964 bytes
 (epstopdf)             Command: <epstopdf --outfile=stokes-diff-test-eps-conver
 ted-to.pdf stokes-diff-test.eps>
-(epstopdf)             \includegraphics on input line 225.
-runsystem(epstopdf --outfile=stokes-diff-test-eps-converted-to.pdf stokes-diff-
-test.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <stokes-diff-test-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:55
-(epstopdf)                    size: 42964 bytes.
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
 
 <stokes-diff-test-eps-converted-to.pdf, id=26, 578.16pt x 578.16pt>
 File: stokes-diff-test-eps-converted-to.pdf Graphic file (type pdf)
 
 <use stokes-diff-test-eps-converted-to.pdf>
 Package pdftex.def Info: stokes-diff-test-eps-converted-to.pdf used on input li
-ne 225.
+ne 228.
 (pdftex.def)             Requested size: 248.60394pt x 248.60394pt.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 248.
+LaTeX Warning: Command \r invalid in math mode on input line 251.
 
 [5 <./viscosity-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MSD_DRatio.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 110222 bytes
 (epstopdf)             Output file: <MSD_DRatio-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:56
+(epstopdf)                    size: 35636 bytes
 (epstopdf)             Command: <epstopdf --outfile=MSD_DRatio-eps-converted-to
 .pdf MSD_DRatio.eps>
-(epstopdf)             \includegraphics on input line 258.
-runsystem(epstopdf --outfile=MSD_DRatio-eps-converted-to.pdf MSD_DRatio.eps)...
-executed (allowed).
-
-Package epstopdf Info: Result file: <MSD_DRatio-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:56
-(epstopdf)                    size: 35636 bytes.
+(epstopdf)             \includegraphics on input line 261.
+Package epstopdf Info: Output file is already uptodate.
 
 <MSD_DRatio-eps-converted-to.pdf, id=35, 578.16pt x 722.7pt>
 File: MSD_DRatio-eps-converted-to.pdf Graphic file (type pdf)
 
 <use MSD_DRatio-eps-converted-to.pdf>
-Package pdftex.def Info: MSD_DRatio-eps-converted-to.pdf used on input line 258
+Package pdftex.def Info: MSD_DRatio-eps-converted-to.pdf used on input line 261
 .
 (pdftex.def)             Requested size: 248.60394pt x 310.75494pt.
  [6 <./stokes-diff-test-eps-converted-to.pdf>] [7 <./MSD_DRatio-eps-converted-t
@@ -367,43 +358,37 @@ Package epstopdf Info: Source file: <timescales_cartoon.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 309049 bytes
 (epstopdf)             Output file: <timescales_cartoon-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:57
+(epstopdf)                    size: 36354 bytes
 (epstopdf)             Command: <epstopdf --outfile=timescales_cartoon-eps-conv
 erted-to.pdf timescales_cartoon.eps>
-(epstopdf)             \includegraphics on input line 340.
-runsystem(epstopdf --outfile=timescales_cartoon-eps-converted-to.pdf timescales
-_cartoon.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <timescales_cartoon-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:57
-(epstopdf)                    size: 36354 bytes.
+(epstopdf)             \includegraphics on input line 343.
+Package epstopdf Info: Output file is already uptodate.
 
 <timescales_cartoon-eps-converted-to.pdf, id=150, 578.16pt x 578.16pt>
 File: timescales_cartoon-eps-converted-to.pdf Graphic file (type pdf)
 
 <use timescales_cartoon-eps-converted-to.pdf>
 Package pdftex.def Info: timescales_cartoon-eps-converted-to.pdf used on input 
-line 340.
+line 343.
 (pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
  [8]
 Package epstopdf Info: Source file: <icos_pops.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 74198 bytes
 (epstopdf)             Output file: <icos_pops-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:57
+(epstopdf)                    size: 36305 bytes
 (epstopdf)             Command: <epstopdf --outfile=icos_pops-eps-converted-to.
 pdf icos_pops.eps>
-(epstopdf)             \includegraphics on input line 377.
-runsystem(epstopdf --outfile=icos_pops-eps-converted-to.pdf icos_pops.eps)...ex
-ecuted (allowed).
-
-Package epstopdf Info: Result file: <icos_pops-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:57
-(epstopdf)                    size: 36305 bytes.
+(epstopdf)             \includegraphics on input line 380.
+Package epstopdf Info: Output file is already uptodate.
 
 <icos_pops-eps-converted-to.pdf, id=156, 578.16pt x 578.16pt>
 File: icos_pops-eps-converted-to.pdf Graphic file (type pdf)
 
 <use icos_pops-eps-converted-to.pdf>
-Package pdftex.def Info: icos_pops-eps-converted-to.pdf used on input line 377.
+Package pdftex.def Info: icos_pops-eps-converted-to.pdf used on input line 380.
 
 (pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
  [9 <./timescales_cartoon-eps-converted-to.pdf>] [10 <./icos_pops-eps-converted
@@ -412,86 +397,74 @@ Package epstopdf Info: Source file: <thesis_network_perc.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 33663 bytes
 (epstopdf)             Output file: <thesis_network_perc-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:58
+(epstopdf)                    size: 22053 bytes
 (epstopdf)             Command: <epstopdf --outfile=thesis_network_perc-eps-con
 verted-to.pdf thesis_network_perc.eps>
-(epstopdf)             \includegraphics on input line 449.
-runsystem(epstopdf --outfile=thesis_network_perc-eps-converted-to.pdf thesis_ne
-twork_perc.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <thesis_network_perc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:58
-(epstopdf)                    size: 22053 bytes.
+(epstopdf)             \includegraphics on input line 452.
+Package epstopdf Info: Output file is already uptodate.
 
 <thesis_network_perc-eps-converted-to.pdf, id=224, 578.16pt x 578.16pt>
 File: thesis_network_perc-eps-converted-to.pdf Graphic file (type pdf)
 
 <use thesis_network_perc-eps-converted-to.pdf>
 Package pdftex.def Info: thesis_network_perc-eps-converted-to.pdf used on input
- line 449.
+ line 452.
 (pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
  [11 <./thesis_network_perc-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Thesis_composition.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 34632 bytes
 (epstopdf)             Output file: <Thesis_composition-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:58
+(epstopdf)                    size: 24315 bytes
 (epstopdf)             Command: <epstopdf --outfile=Thesis_composition-eps-conv
 erted-to.pdf Thesis_composition.eps>
-(epstopdf)             \includegraphics on input line 472.
-runsystem(epstopdf --outfile=Thesis_composition-eps-converted-to.pdf Thesis_com
-position.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <Thesis_composition-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:58
-(epstopdf)                    size: 24315 bytes.
+(epstopdf)             \includegraphics on input line 475.
+Package epstopdf Info: Output file is already uptodate.
 
 <Thesis_composition-eps-converted-to.pdf, id=261, 578.16pt x 578.16pt>
 File: Thesis_composition-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Thesis_composition-eps-converted-to.pdf>
 Package pdftex.def Info: Thesis_composition-eps-converted-to.pdf used on input 
-line 472.
+line 475.
 (pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
  [12 <./Thesis_composition-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Thesis_net_fluc.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 57532 bytes
 (epstopdf)             Output file: <Thesis_net_fluc-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:59
+(epstopdf)                    size: 36050 bytes
 (epstopdf)             Command: <epstopdf --outfile=Thesis_net_fluc-eps-convert
 ed-to.pdf Thesis_net_fluc.eps>
-(epstopdf)             \includegraphics on input line 524.
-runsystem(epstopdf --outfile=Thesis_net_fluc-eps-converted-to.pdf Thesis_net_fl
-uc.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <Thesis_net_fluc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:37:59
-(epstopdf)                    size: 36050 bytes.
+(epstopdf)             \includegraphics on input line 527.
+Package epstopdf Info: Output file is already uptodate.
 
 <Thesis_net_fluc-eps-converted-to.pdf, id=304, 578.16pt x 578.16pt>
 File: Thesis_net_fluc-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Thesis_net_fluc-eps-converted-to.pdf>
 Package pdftex.def Info: Thesis_net_fluc-eps-converted-to.pdf used on input lin
-e 524.
+e 527.
 (pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
  [13] [14 <./Thesis_net_fluc-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <fig6.eps>
 (epstopdf)                    date: 2016-01-31 10:32:14
 (epstopdf)                    size: 6647417 bytes
 (epstopdf)             Output file: <fig6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:38:02
+(epstopdf)                    size: 174394 bytes
 (epstopdf)             Command: <epstopdf --outfile=fig6-eps-converted-to.pdf f
 ig6.eps>
-(epstopdf)             \includegraphics on input line 617.
-runsystem(epstopdf --outfile=fig6-eps-converted-to.pdf fig6.eps)...executed (al
-lowed).
-
-Package epstopdf Info: Result file: <fig6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-01-31 10:38:02
-(epstopdf)                    size: 174394 bytes.
+(epstopdf)             \includegraphics on input line 630.
+Package epstopdf Info: Output file is already uptodate.
  <fig6-eps-converted-to.pdf, id=365, 401.5pt x 438.63875pt>
 File: fig6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig6-eps-converted-to.pdf>
-Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 617.
+Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 630.
 (pdftex.def)             Requested size: 240.90184pt x 263.18527pt.
  [15] [16 <./fig6-eps-converted-to.pdf>]
 [17] [18]
@@ -530,13 +503,13 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [20] [21] (Supercooled_Final.aux) ) 
 Here is how much of TeX's memory you used:
- 4505 strings out of 493634
- 60400 string characters out of 3141288
- 139797 words of memory out of 3000000
- 7827 multiletter control sequences out of 15000+200000
+ 4506 strings out of 493634
+ 60410 string characters out of 3141288
+ 140797 words of memory out of 3000000
+ 7828 multiletter control sequences out of 15000+200000
  13530 words of font info for 47 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,10n,35p,730b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,35p,730b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmbx10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
@@ -552,7 +525,7 @@ y10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
 fb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
 ><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on Supercooled_Final.pdf (21 pages, 697135 bytes).
+Output written on Supercooled_Final.pdf (21 pages, 697897 bytes).
 PDF statistics:
  438 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
