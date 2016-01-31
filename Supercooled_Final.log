@@ -1,0 +1,560 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.31)  31 JAN 2016 10:37
+entering extended mode
+**"C:/Users/Ryan Soklaski/Desktop/TA_TD_Paper/Supercooled_Final.tex"
+("C:/Users/Ryan Soklaski/Desktop/TA_TD_Paper/Supercooled_Final.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex4\re
+vtex4.cls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.st
+y"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\nat
+bib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex4\re
+vsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)) ("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+For additional information on amsmath, use the `?' option.
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen102
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen103
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen104
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks17
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks18
+\eqnshift@=\dimen105
+\alignsep@=\dimen106
+\tagshift@=\dimen107
+\tagwidth@=\dimen108
+\totwidth@=\dimen109
+\lineht@=\dimen110
+\@envbody=\toks19
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex4\ap
+s.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex4\12
+pt.rtx"
+File: 12pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+) ("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks22
+\extratabsurround=\skip48
+\backup@length=\skip49
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bezos\acce
+nts.sty"
+Package: accents 2006/05/12 v1.3 Math Accent Tools
+\cc@skew=\dimen115
+\cc@wd=\dimen116
+\cc@code=\count106
+\cc@group=\count107
+\cc@skewchar=\count108
+)
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xco
+lor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ ("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(Supercooled_Final.aux)
+\openout1 = `Supercooled_Final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Class revtex4 Info: Patching array package. on input line 10.
+Class revtex4 Info: cite was not loaded (OK!) on input line 10.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 10.
+
+("C:\Users\Ryan Soklaski\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen117
+\scratchbox=\box36
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen118
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks24
+) [1{C:/Users/Ryan Soklaski/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2] [3]
+Package epstopdf Info: Source file: <viscosity.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 332301 bytes
+(epstopdf)             Output file: <viscosity-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=viscosity-eps-converted-to.
+pdf viscosity.eps>
+(epstopdf)             \includegraphics on input line 202.
+runsystem(epstopdf --outfile=viscosity-eps-converted-to.pdf viscosity.eps)...ex
+ecuted (allowed).
+
+Package epstopdf Info: Result file: <viscosity-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:55
+(epstopdf)                    size: 42527 bytes.
+ <viscosity-eps-converted-to.pdf, id=22, 578.16pt x 578.16pt>
+File: viscosity-eps-converted-to.pdf Graphic file (type pdf)
+
+<use viscosity-eps-converted-to.pdf>
+Package pdftex.def Info: viscosity-eps-converted-to.pdf used on input line 202.
+
+(pdftex.def)             Requested size: 231.2599pt x 231.2599pt.
+ [4]
+Package epstopdf Info: Source file: <stokes-diff-test.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 77971 bytes
+(epstopdf)             Output file: <stokes-diff-test-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=stokes-diff-test-eps-conver
+ted-to.pdf stokes-diff-test.eps>
+(epstopdf)             \includegraphics on input line 225.
+runsystem(epstopdf --outfile=stokes-diff-test-eps-converted-to.pdf stokes-diff-
+test.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <stokes-diff-test-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:55
+(epstopdf)                    size: 42964 bytes.
+
+<stokes-diff-test-eps-converted-to.pdf, id=26, 578.16pt x 578.16pt>
+File: stokes-diff-test-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stokes-diff-test-eps-converted-to.pdf>
+Package pdftex.def Info: stokes-diff-test-eps-converted-to.pdf used on input li
+ne 225.
+(pdftex.def)             Requested size: 248.60394pt x 248.60394pt.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 248.
+
+[5 <./viscosity-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <MSD_DRatio.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 110222 bytes
+(epstopdf)             Output file: <MSD_DRatio-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=MSD_DRatio-eps-converted-to
+.pdf MSD_DRatio.eps>
+(epstopdf)             \includegraphics on input line 258.
+runsystem(epstopdf --outfile=MSD_DRatio-eps-converted-to.pdf MSD_DRatio.eps)...
+executed (allowed).
+
+Package epstopdf Info: Result file: <MSD_DRatio-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:56
+(epstopdf)                    size: 35636 bytes.
+
+<MSD_DRatio-eps-converted-to.pdf, id=35, 578.16pt x 722.7pt>
+File: MSD_DRatio-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MSD_DRatio-eps-converted-to.pdf>
+Package pdftex.def Info: MSD_DRatio-eps-converted-to.pdf used on input line 258
+.
+(pdftex.def)             Requested size: 248.60394pt x 310.75494pt.
+ [6 <./stokes-diff-test-eps-converted-to.pdf>] [7 <./MSD_DRatio-eps-converted-t
+o.pdf>]
+Package epstopdf Info: Source file: <timescales_cartoon.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 309049 bytes
+(epstopdf)             Output file: <timescales_cartoon-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=timescales_cartoon-eps-conv
+erted-to.pdf timescales_cartoon.eps>
+(epstopdf)             \includegraphics on input line 340.
+runsystem(epstopdf --outfile=timescales_cartoon-eps-converted-to.pdf timescales
+_cartoon.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <timescales_cartoon-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:57
+(epstopdf)                    size: 36354 bytes.
+
+<timescales_cartoon-eps-converted-to.pdf, id=150, 578.16pt x 578.16pt>
+File: timescales_cartoon-eps-converted-to.pdf Graphic file (type pdf)
+
+<use timescales_cartoon-eps-converted-to.pdf>
+Package pdftex.def Info: timescales_cartoon-eps-converted-to.pdf used on input 
+line 340.
+(pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
+ [8]
+Package epstopdf Info: Source file: <icos_pops.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 74198 bytes
+(epstopdf)             Output file: <icos_pops-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=icos_pops-eps-converted-to.
+pdf icos_pops.eps>
+(epstopdf)             \includegraphics on input line 377.
+runsystem(epstopdf --outfile=icos_pops-eps-converted-to.pdf icos_pops.eps)...ex
+ecuted (allowed).
+
+Package epstopdf Info: Result file: <icos_pops-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:57
+(epstopdf)                    size: 36305 bytes.
+
+<icos_pops-eps-converted-to.pdf, id=156, 578.16pt x 578.16pt>
+File: icos_pops-eps-converted-to.pdf Graphic file (type pdf)
+
+<use icos_pops-eps-converted-to.pdf>
+Package pdftex.def Info: icos_pops-eps-converted-to.pdf used on input line 377.
+
+(pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
+ [9 <./timescales_cartoon-eps-converted-to.pdf>] [10 <./icos_pops-eps-converted
+-to.pdf>]
+Package epstopdf Info: Source file: <thesis_network_perc.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 33663 bytes
+(epstopdf)             Output file: <thesis_network_perc-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=thesis_network_perc-eps-con
+verted-to.pdf thesis_network_perc.eps>
+(epstopdf)             \includegraphics on input line 449.
+runsystem(epstopdf --outfile=thesis_network_perc-eps-converted-to.pdf thesis_ne
+twork_perc.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <thesis_network_perc-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:58
+(epstopdf)                    size: 22053 bytes.
+
+<thesis_network_perc-eps-converted-to.pdf, id=224, 578.16pt x 578.16pt>
+File: thesis_network_perc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use thesis_network_perc-eps-converted-to.pdf>
+Package pdftex.def Info: thesis_network_perc-eps-converted-to.pdf used on input
+ line 449.
+(pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
+ [11 <./thesis_network_perc-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Thesis_composition.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 34632 bytes
+(epstopdf)             Output file: <Thesis_composition-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=Thesis_composition-eps-conv
+erted-to.pdf Thesis_composition.eps>
+(epstopdf)             \includegraphics on input line 472.
+runsystem(epstopdf --outfile=Thesis_composition-eps-converted-to.pdf Thesis_com
+position.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <Thesis_composition-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:58
+(epstopdf)                    size: 24315 bytes.
+
+<Thesis_composition-eps-converted-to.pdf, id=261, 578.16pt x 578.16pt>
+File: Thesis_composition-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Thesis_composition-eps-converted-to.pdf>
+Package pdftex.def Info: Thesis_composition-eps-converted-to.pdf used on input 
+line 472.
+(pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
+ [12 <./Thesis_composition-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Thesis_net_fluc.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 57532 bytes
+(epstopdf)             Output file: <Thesis_net_fluc-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=Thesis_net_fluc-eps-convert
+ed-to.pdf Thesis_net_fluc.eps>
+(epstopdf)             \includegraphics on input line 524.
+runsystem(epstopdf --outfile=Thesis_net_fluc-eps-converted-to.pdf Thesis_net_fl
+uc.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <Thesis_net_fluc-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:37:59
+(epstopdf)                    size: 36050 bytes.
+
+<Thesis_net_fluc-eps-converted-to.pdf, id=304, 578.16pt x 578.16pt>
+File: Thesis_net_fluc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Thesis_net_fluc-eps-converted-to.pdf>
+Package pdftex.def Info: Thesis_net_fluc-eps-converted-to.pdf used on input lin
+e 524.
+(pdftex.def)             Requested size: 219.70308pt x 219.70308pt.
+ [13] [14 <./Thesis_net_fluc-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fig6.eps>
+(epstopdf)                    date: 2016-01-31 10:32:14
+(epstopdf)                    size: 6647417 bytes
+(epstopdf)             Output file: <fig6-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=fig6-eps-converted-to.pdf f
+ig6.eps>
+(epstopdf)             \includegraphics on input line 617.
+runsystem(epstopdf --outfile=fig6-eps-converted-to.pdf fig6.eps)...executed (al
+lowed).
+
+Package epstopdf Info: Result file: <fig6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-31 10:38:02
+(epstopdf)                    size: 174394 bytes.
+ <fig6-eps-converted-to.pdf, id=365, 401.5pt x 438.63875pt>
+File: fig6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig6-eps-converted-to.pdf>
+Package pdftex.def Info: fig6-eps-converted-to.pdf used on input line 617.
+(pdftex.def)             Requested size: 240.90184pt x 263.18527pt.
+ [15] [16 <./fig6-eps-converted-to.pdf>]
+[17] [18]
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no “ in font cmti10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [19]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [20] [21] (Supercooled_Final.aux) ) 
+Here is how much of TeX's memory you used:
+ 4505 strings out of 493634
+ 60400 string characters out of 3141288
+ 139797 words of memory out of 3000000
+ 7827 multiletter control sequences out of 15000+200000
+ 13530 words of font info for 47 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 42i,10n,35p,730b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi6.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
+fb><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb
+><D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on Supercooled_Final.pdf (21 pages, 697135 bytes).
+PDF statistics:
+ 438 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
